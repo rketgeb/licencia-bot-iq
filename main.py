@@ -14,6 +14,9 @@ LICENCIAS = [
     #     "correo": "cliente2@email.com",
     #     "id_usuario": 112233445
     # },
+    {  "correo": "wiliamdiasa@gmail.com",  # ✅ Tu correo
+        "id_usuario": 179399234             # ✅ Tu ID de IQ Option
+    },
 ]
 
 class SolicitudLicencia(BaseModel):
