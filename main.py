@@ -16,6 +16,8 @@ LICENCIAS = [
     # },
     {  "correo": "wiliamdiasa@gmail.com",  # ✅ Tu correo
         "id_usuario": 179399234             # ✅ Tu ID de IQ Option
+    },{  "correo": "alejandroyt1524@gmail.com",  # ✅ Tu correo
+        "id_usuario": 180625774           # ✅ Tu ID de IQ Option
     },
 ]
 
